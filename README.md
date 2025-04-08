@@ -8,5 +8,5 @@ Report for Duplicated Users in Active Directory by ID
     - Microsoft Active Directory named "AD"
     
 # Screenshots
-![image](https://github.com/user-attachments/assets/4327f1a7-431e-463e-8291-83f24df45b6c)
+![image](https://github.com/user-attachments/assets/89da103c-b538-425c-90aa-f952c6d50c05)
 
